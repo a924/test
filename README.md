@@ -3,3 +3,4 @@
 
 ##メンバー
 *testmaster
+*PRtest
