@@ -1,2 +1,5 @@
 # test
 テスト
+
+##メンバー
+*testmaster
